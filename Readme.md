@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Елена Ли](https://up.htmlacademy.ru/javascript/20/user/1117455).
-* Наставник: Вадим Попов.
+* Наставник: [Вадим Попов](https://htmlacademy.ru/profile/id1503771).
 
 ---
 
